@@ -8,7 +8,7 @@ Getting started
 2. Clone your fork locally:
 
 ```powershell
-git clone git@github.com:<your-username>/hand-mouse-control.git
+git clone https://github.com/tubakhxn/hand-mouse-controller
 cd hand-mouse-control
 ```
 
@@ -38,3 +38,4 @@ Packaging
 Questions
 
 - Open an issue on GitHub and tag @tubakhxn so maintainers notice it promptly.
+
